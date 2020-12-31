@@ -1,0 +1,54 @@
+.topbar {
+    height: 80px;
+    width: 80%;
+    background-color: #0B8076;
+    margin: 0 auto;
+}
+
+.topbar h1 {
+    color: #C3D3D4;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 15px;
+}
+
+
+
+.manu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    color: #EEF0E8;
+}
+
+.alrecord {
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.alrecord h2 {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left: 36px;
+}
+
+.alrecord thead {
+    background-color: #333333;
+    color: #F5F7EF;
+}
+
+.alrecord thead th {
+    font-size: 26px;
+}
+
+.alrecord table {
+    width: 90%;
+    margin-top: 100px;
+    margin: 0 auto;
+}
+
+.alrecord tr td {
+    font-size: 22px;
+}
